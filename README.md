@@ -30,7 +30,7 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <br>
 <br>
 
-## &#x1F447; Connect with me
+## &#x1F447; Get in touch
 
 [<img align="left" width="22px" alt="Web"         src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" alt="LinkedIn"    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
