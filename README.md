@@ -37,7 +37,6 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <img align="left" width="25px" alt="GitHub"                src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" width="25px" alt="GitLab"                src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 <img align="left" width="25px" alt="Jira"                  src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" />
-<img align="left" width="25px" alt="Azure DevOps"          src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-azure-devops.svg" />
 <img align="left" width="25px" alt="Jekyll"                src="https://cdn.worldvectorlogo.com/logos/jekyll.svg" />
 <img align="left" width="25px" alt="HTML5"                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="25px" alt="CSS3"                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -48,23 +47,25 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <img align="left" width="25px" alt="Linux"                 src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />
 <img align="left" width="25px" alt="Raspberry Pi"          src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
 <img align="left" width="25px" alt="OpenVPN"               src="https://cdn.worldvectorlogo.com/logos/openvpn-logo-1.svg" />
-<img align="left" width="25px" alt="MongooseOS"            src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-mongoose-os.png" />
-<img align="left" width="25px" alt="Mosquitto MQTT"        src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-mosquitto-mqtt.png" />
-<img align="left" width="25px" alt="Node-RED"              src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-node-red.pmg" />
-<img align="left" width="25px" alt="Hugo"                  src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-hugo.svg" />
-<img align="left" width="25px" alt="Elastic APM"           src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-elastic-apm.png" />
-<img align="left" width="25px" alt="IdentityServer"        src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-Identity-server" />
-<img align="left" width="25px" alt="Telegraf"              src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-telegraf.svg" />
-<img align="left" width="25px" alt="SQL management studio" src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/logo-mssms" />
+<!-- 
+<img align="left" width="25px" alt="Azure DevOps"          src="assets/logo-azure-devops.svg" />
+<img align="left" width="25px" alt="MongooseOS"            src="assets/logo-mongoose-os.png" />
+<img align="left" width="25px" alt="Mosquitto MQTT"        src="assets/logo-mosquitto-mqtt.png" />
+<img align="left" width="25px" alt="Node-RED"              src="assets/logo-node-red.png" />
+<img align="left" width="25px" alt="Hugo"                  src="assets/logo-hugo.svg" />
+<img align="left" width="25px" alt="Elastic APM"           src="assets/logo-elastic-apm.png" />
+<img align="left" width="25px" alt="IdentityServer"        src="assets/logo-Identity-server.png" />
+<img align="left" width="25px" alt="Telegraf"              src="assets/logo-telegraf.svg" />
+<img align="left" width="25px" alt="SQL management studio" src="assets/logo-mssms.png" /> 
+-->
 
 <!-- Data structures
+Logos to be added:
 Algorithms
 Design patterns
 
-
 Express.js
 Postman
-
 IoT
 Samba
 Microservices
@@ -89,6 +90,7 @@ Database First
 Stored procedure
 -->
 
+<br>
 <br>
 <br>
 <br>
