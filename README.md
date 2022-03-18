@@ -4,6 +4,9 @@
 
 Software developer, electrical engineer, PhD student, avid in IoT and home automation.
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanasyanew&label=Profile%20views&color=0e75b6&style=flat" alt="atanasyanew" /> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atanasyanew" alt="atanasyanew" /></a> </p> -->
+
 <br>
 
 ## &#x270d; Blog & Writing
@@ -14,12 +17,14 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 
 ## 🔧 Technologies & Tools
 
-<img align="left" width="25px" alt="Visual Studio code"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="25px" alt="Visual Studio"         src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />
-<img align="left" width="25px" alt=".Net Core"             src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" />
-<img align="left" width="25px" alt="C#"                    src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" width="25px" alt="Azure"                 src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" />
-<img align="left" width="25px" alt="MS SQL"                src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />
+
+
+<code><img align="left" width="25px" alt="Visual Studio code"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img align="left" width="25px" alt="Visual Studio"         src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" /></code>
+<code><img align="left" width="25px" alt=".Net Core"             src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" /></code>
+<code><img align="left" width="25px" alt="C#"                    src="https://cdn.worldvectorlogo.com/logos/c--4.svg" /></code>
+<code><img align="left" width="25px" alt="Azure"                 src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" /></code>
+<img align="left" width="25px" alt="MS SQL"                src="./assets/microsoft-sql-server.svg" />
 <img align="left" width="25px" alt="ElasticSearch"         src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" />
 <img align="left" width="25px" alt="Kibana"                src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" />
 <img align="left" width="25px" alt="MySQL"                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -47,8 +52,11 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <img align="left" width="25px" alt="Linux"                 src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />
 <img align="left" width="25px" alt="Raspberry Pi"          src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />
 <img align="left" width="25px" alt="OpenVPN"               src="https://cdn.worldvectorlogo.com/logos/openvpn-logo-1.svg" />
+<!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png -->
+
 <!-- 
-<img align="left" width="25px" alt="Azure DevOps"          src="assets/logo-azure-devops.svg" />
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png
+<img align="left" width="25px" alt="Azure DevOps"          src="./assets/logo-azure-devops.svg" />
 <img align="left" width="25px" alt="MongooseOS"            src="assets/logo-mongoose-os.png" />
 <img align="left" width="25px" alt="Mosquitto MQTT"        src="assets/logo-mosquitto-mqtt.png" />
 <img align="left" width="25px" alt="Node-RED"              src="assets/logo-node-red.png" />
@@ -105,8 +113,8 @@ Stored procedure
 <br>
 <br>
 
-<!-- 
-## &#x1f4c8; GitHub Stats
+
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/atanasyanew/atanasyanew">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atanasyanew&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -114,7 +122,9 @@ Stored procedure
 <a href="https://github.com/atanasyanew/atanasyanew">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanasyanew&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a> 
--->
+
+![atanasyanew's github stats](https://github-readme-stats.vercel.app/api?username=atanasyanew&show_icons=true&hide_border=true) -->
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
