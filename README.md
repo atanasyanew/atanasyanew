@@ -2,13 +2,18 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/atanasyanew/atanasyanew/master/assets/wave.gif" width="30px">
 
-Software developer, electrical engineer, PhD student, avid in IoT and home automation.
+Software engineer, PhD student, and IoT enthusiast.  
+I'm on a constant quest for knowledge, passionate about turning ideas into reality.  
+Еmbarking on an ongoing exploration, blending technologies with hands-on DIY projects, ranging from 3D printing to software and hardware.  
+Beyond tech, I believe in a balanced life, embracing self-care, gym workouts, and spirituality.
 
 <br>
 
-## &#x270d; Blog & Writing
+## &#x270d; Ink Chronicles
 
-Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.eu](https://wiki.ayanev.eu/)
+Apart from coding, maintaining a blog/wiki/web log, you name it  
+&plus; [wiki.ayanev.eu](https://wiki.ayanev.eu/),  
+&plus; [blueprint.ayanev.eu](https://blueprint.ayanev.eu/)  
 
 <br>
 
@@ -20,7 +25,7 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <span><img align="left" width="25px" style="padding-right:10px;" alt="C#"                    src="https://cdn.worldvectorlogo.com/logos/c--4.svg" /></span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="Azure"                 src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" /></span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="MS SQL"                src="./assets/microsoft-sql-server.svg" /></span>
-<span><img align="left" width="25px" style="padding-right:10px;" alt="ElasticSearch"         src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" /></span>
+<span><img align="left" width="25px" style="padding-right:10px;" alt="ElasticSearch"         src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" /></span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="Kibana"                src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" /></span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="MySQL"                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="SQLite"                src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" /></span>
@@ -60,7 +65,8 @@ Apart from coding, maintaining a blog/wiki/web log, you name it - [wiki.ayanev.e
 <span><img align="left" width="25px" style="padding-right:10px;" alt="SQL management studio" src="./assets/logo-mssms.png" /> </span>
 <span><img align="left" width="25px" style="padding-right:10px;" alt="Ansible"               src="https://cdn.worldvectorlogo.com/logos/ansible.svg" /></span>
 
-
+<!-- [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp; -->
 
 <!-- Data structures
 Logos to be added:
@@ -93,6 +99,10 @@ Database First
 Stored procedure
 -->
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
